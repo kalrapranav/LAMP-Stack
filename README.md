@@ -58,3 +58,6 @@ Cretae a firewall:
 
 Now website can be viewed in any of the browser by typing the server name
 
+Now in order to trsnsfer the  file from yout local machine to your ssh server use the following command:
+> scp /home/kalra/Desktop/web/* sooby@IP-address:.
+
